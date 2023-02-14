@@ -1,2 +1,2 @@
 # Quizz
-Just a simple quizz 
+Just a simple quizz I made
