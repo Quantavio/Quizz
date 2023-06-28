@@ -46,7 +46,7 @@ else:
     print("wrong")
 
 answer = input("what does gpu do? ")
-if answer.lower() == "display images":
+if answer.lower() == "helps handle graphics related work":
     print("Correct ")
     score += 1
 else:
